@@ -64,13 +64,13 @@ Hospital-Management-System-MERN-Stack/
 
 # ⚡ Installation & Setup
 ## 1️⃣ Clone the Repository
-git clone https://github.com/Satasiya-Daksh-Maheshbhai/Hospital-Management-System-MERN-Stack.git
-cd Hospital-Management-System-MERN-Stack
+### git clone https://github.com/Satasiya-Daksh-Maheshbhai/Hospital-Management-System-MERN-Stack.git
+### cd Hospital-Management-System-MERN-Stack
 
 ## 2️⃣ Backend Setup
-cd backend
-npm install
-npm start
+### cd backend
+### npm install
+### npm start
 
 ## Create a .env file in backend/ with:
 
@@ -80,9 +80,9 @@ EMAIL_USER = your_email@example.com
 EMAIL_PASS = your_password_or_app_password
 
 ## 3️⃣ Frontend Setup
-cd frontend
-npm install
-npm start
+### cd frontend
+### npm install
+### npm start
 
 
 ## 🖥️ Tech Stack
