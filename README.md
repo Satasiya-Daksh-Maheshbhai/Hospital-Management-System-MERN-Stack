@@ -64,43 +64,43 @@ Hospital-Management-System-MERN-Stack/
 
 # ⚡ Installation & Setup
 ## 1️⃣ Clone the Repository
-### git clone https://github.com/Satasiya-Daksh-Maheshbhai/Hospital-Management-System-MERN-Stack.git
-### cd Hospital-Management-System-MERN-Stack
+#### git clone https://github.com/Satasiya-Daksh-Maheshbhai/Hospital-Management-System-MERN-Stack.git
+#### cd Hospital-Management-System-MERN-Stack
 
 ## 2️⃣ Backend Setup
-### cd backend
-### npm install
-### npm start
+#### cd backend
+#### npm install
+#### npm start
 
 ## Create a .env file in backend/ with:
 
-MONGO_URI = your_mongodb_connection_string
-PORT = 5000
-EMAIL_USER = your_email@example.com
-EMAIL_PASS = your_password_or_app_password
+#### MONGO_URI = your_mongodb_connection_string
+#### PORT = 5000
+#### EMAIL_USER = your_email@example.com
+#### EMAIL_PASS = your_password_or_app_password
 
 ## 3️⃣ Frontend Setup
-### cd frontend
-### npm install
-### npm start
+#### cd frontend
+#### npm install
+#### npm start
 
 
 ## 🖥️ Tech Stack
 
-Frontend: React.js, Bootstrap
+#### Frontend: React.js, Bootstrap
 
-Backend: Node.js, Express.js
+#### Backend: Node.js, Express.js
 
-Database: MongoDB (Mongoose)
+#### Database: MongoDB (Mongoose)
 
-Email Service: Nodemailer
+#### Email Service: Nodemailer
 
 ## 🚀 Future Enhancements
 
-Doctor Availability Calendar
+#### Doctor Availability Calendar
 
-Online Payment Gateway for Bookings
+#### Online Payment Gateway for Bookings
 
-SMS/Email Reminders
+#### SMS/Email Reminders
 
-Role-based Authentication (Patient, Doctor, Admin)
+#### Role-based Authentication (Patient, Doctor, Admin)
