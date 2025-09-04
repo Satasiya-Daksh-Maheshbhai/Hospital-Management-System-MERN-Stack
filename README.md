@@ -56,7 +56,7 @@ HOSPITAL_1__USING_VSCODE_1_tryyyyyyyy/
 
 ---
 
-###⚡ Installation & Setup
+# ⚡ Installation & Setup
 ## 1️⃣ Clone the Repository
 git clone https://github.com/your-username/hospital-mern.git
 cd hospital-mern
@@ -71,7 +71,8 @@ MONGO_URI = your_mongodb_connection_string
 PORT = 5000
 EMAIL_USER = your_email@example.com
 EMAIL_PASS = your_password_or_app_password
-### 3️⃣ Frontend Setup
+
+## 3️⃣ Frontend Setup
 cd frontend
 npm install
 npm start
