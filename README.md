@@ -64,8 +64,9 @@ Hospital-Management-System-MERN-Stack/
 
 # ⚡ Installation & Setup
 ## 1️⃣ Clone the Repository
-git clone https://github.com/your-username/hospital-mern.git
-cd hospital-mern
+git clone https://github.com/Satasiya-Daksh-Maheshbhai/Hospital-Management-System-MERN-Stack.git
+cd Hospital-Management-System-MERN-Stack
+
 ## 2️⃣ Backend Setup
 cd backend
 npm install
@@ -82,3 +83,24 @@ EMAIL_PASS = your_password_or_app_password
 cd frontend
 npm install
 npm start
+
+
+## 🖥️ Tech Stack
+
+Frontend: React.js, Bootstrap
+
+Backend: Node.js, Express.js
+
+Database: MongoDB (Mongoose)
+
+Email Service: Nodemailer
+
+## 🚀 Future Enhancements
+
+Doctor Availability Calendar
+
+Online Payment Gateway for Bookings
+
+SMS/Email Reminders
+
+Role-based Authentication (Patient, Doctor, Admin)
