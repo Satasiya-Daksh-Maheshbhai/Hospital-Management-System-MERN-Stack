@@ -104,3 +104,9 @@ Hospital-Management-System-MERN-Stack/
 #### SMS/Email Reminders
 
 #### Role-based Authentication (Patient, Doctor, Admin)
+
+# 👨‍💻 Author
+
+## Daksh Satasiya
+linkedin link :-
+🔗 https://linkedin.com/in/daksh-satasiya-01ba92380
