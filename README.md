@@ -12,6 +12,7 @@ Includes **email integration** for notifications.
 - User Registration & Login
 - Book Appointments with Doctors
 - Contact Form with Email Support
+- Diseases info section to view diseases using symptoms
 - Post Feedback & Reviews
 - Responsive Home, Services, About Pages
 
@@ -19,8 +20,8 @@ Includes **email integration** for notifications.
 - Admin Login & Dashboard
 - Approve / Reject Appointments
 - View & Manage Patient Records
-- Handle Contact Form Queries
-- Manage Reviews
+- Handle Contact Form Database
+- Manage Reviews From Database
 
 ### 📧 Other Features
 - Email Notifications (`config/email.js`)
@@ -50,5 +51,4 @@ HOSPITAL_1__USING_VSCODE_1_tryyyyyyyy/
 │   │   └── App.js
 │   ├── package.json      # Frontend Dependencies
 │
-├── A1_22_hospital_website.pptx   # Project Presentation
 └── README.md
