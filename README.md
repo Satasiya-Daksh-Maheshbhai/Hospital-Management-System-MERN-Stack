@@ -1,40 +1,45 @@
-# 🏥 Hospital Management Website (MERN Stack)
+# 🏥 Hospital Management System (MERN Stack)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Satasiya-Daksh-Maheshbhai/Hospital-Management-System-MERN-Stack)
+![GitHub stars](https://img.shields.io/github/stars/Satasiya-Daksh-Maheshbhai/Hospital-Management-System-MERN-Stack?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Satasiya-Daksh-Maheshbhai/Hospital-Management-System-MERN-Stack?style=social)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 A full-stack **Hospital Management System** built with the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
-It provides patients with online appointment booking and hospital services while giving admins the ability to manage appointments, users, and reviews.  
-Includes **email integration** for notifications.
+It allows patients to book appointments, access hospital services, and contact doctors, while admins can manage appointments, patients, and feedback.  
+Includes **email integration** for notifications and a **disease information feature** to check symptoms.
 
 ---
 
 ## ✨ Features
 
 ### 👩‍⚕️ Patient/User Side
-- User Registration & Login
-- Book Appointments with Doctors
-- Contact Form with Email Support
-- Diseases info section to view diseases using symptoms
-- Post Feedback & Reviews
-- Responsive Home, Services, About Pages
+- User **Registration & Login**
+- Book **Appointments** with Doctors
+- **Contact Form** with Email Support
+- **Disease Info Section** → Search diseases based on symptoms
+- Post **Feedback & Reviews**
+- Responsive **Home, Services, About** Pages
 
 ### 🛠️ Admin Side
-- Admin Login & Dashboard
-- Approve / Reject Appointments
-- View & Manage Patient Records
-- Handle Contact Form Database
-- Manage Reviews From Database
+- **Admin Login** & Dashboard
+- Approve / Reject **Appointments**
+- View & Manage **Patient Records**
+- Handle **Contact Form Queries** from Database
+- Manage **Reviews** from Database
 
 ### 📧 Other Features
 - Email Notifications (`config/email.js`)
-- MongoDB for data storage
+- MongoDB for secure storage
 - REST APIs with Express.js
-- Responsive Frontend using React + Bootstrap
+- Responsive UI with React + Bootstrap
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-HOSPITAL_1__USING_VSCODE_1_tryyyyyyyy/
+Hospital-Management-System-MERN-Stack/
 │
 ├── backend/              # Node.js + Express Backend
 │   ├── config/           # Email & DB Config
@@ -52,6 +57,7 @@ HOSPITAL_1__USING_VSCODE_1_tryyyyyyyy/
 │   ├── package.json      # Frontend Dependencies
 │
 └── README.md
+
 ```
 
 ---
